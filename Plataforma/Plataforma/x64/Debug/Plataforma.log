@@ -1,0 +1,6 @@
+﻿  main.cpp
+F:\Mariano\UNL\MAV1\Unidad 3\Practica\Plataforma\Plataforma\main.cpp(32,20): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+F:\Mariano\UNL\MAV1\Unidad 3\Practica\Plataforma\Plataforma\main.cpp(34,27): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Mariano\UNL\MAV1\Unidad 3\Practica\Plataforma\Plataforma\main.cpp(39,24): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+F:\Mariano\UNL\MAV1\Unidad 3\Practica\Plataforma\Plataforma\main.cpp(39,19): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Plataforma.vcxproj -> F:\Mariano\UNL\MAV1\Unidad 3\Practica\Plataforma\x64\Debug\Plataforma.exe

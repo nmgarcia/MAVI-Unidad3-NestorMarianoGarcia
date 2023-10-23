@@ -1,0 +1,12 @@
+﻿  main.cpp
+F:\Mariano\UNL\MAV1\Unidad 3\Practica\Transparencias\Transparencias\main.cpp(30,94): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+F:\Mariano\UNL\MAV1\Unidad 3\Practica\Transparencias\Transparencias\main.cpp(30,57): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+  Transparencias.vcxproj -> F:\Mariano\UNL\MAV1\Unidad 3\Practica\Transparencias\x64\Debug\Transparencias.exe

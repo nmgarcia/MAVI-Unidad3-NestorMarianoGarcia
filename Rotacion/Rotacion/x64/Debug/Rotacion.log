@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\Mariano\UNL\MAV1\Unidad 3\Practica\Rotacion\Rotacion\main.cpp(16,22): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+F:\Mariano\UNL\MAV1\Unidad 3\Practica\Rotacion\Rotacion\main.cpp(16,18): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+F:\Mariano\UNL\MAV1\Unidad 3\Practica\Rotacion\Rotacion\main.cpp(28,17): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Rotacion.vcxproj -> F:\Mariano\UNL\MAV1\Unidad 3\Practica\Rotacion\x64\Debug\Rotacion.exe

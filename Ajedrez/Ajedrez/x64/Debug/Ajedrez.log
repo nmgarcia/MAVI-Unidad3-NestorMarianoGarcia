@@ -1,0 +1,4 @@
+﻿  main.cpp
+F:\Mariano\UNL\MAV1\Unidad 3\Practica\Ajedrez\Ajedrez\main.cpp(35,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Mariano\UNL\MAV1\Unidad 3\Practica\Ajedrez\Ajedrez\main.cpp(35,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Ajedrez.vcxproj -> F:\Mariano\UNL\MAV1\Unidad 3\Practica\Ajedrez\x64\Debug\Ajedrez.exe
